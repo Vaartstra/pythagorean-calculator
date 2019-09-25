@@ -1,0 +1,64 @@
+body {
+    background-color: maroon;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.main {
+    background-color: white;
+    margin: auto;
+    width: 600px;
+    padding: 75px;
+    border-radius: 20px;
+    margin-bottom: 125px
+}
+
+h1, h2, h3{
+    font-family: 'Maven Pro', sans-serif;
+    color: maroon;
+}
+
+h1 {
+    color: #808000
+}
+
+.answer {
+    color: maroon
+}
+
+.calculator {
+    background-color:  rgb(235, 235, 235);
+    border: 2px solid grey;
+    padding: 10px 50px;
+}
+
+input {
+    margin-left: 10px
+}
+
+p {
+    letter-spacing: 0.3px
+}
+
+.box {
+    border: 0.5px solid black;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+button {
+    color: white;
+    background-color: #808000;
+    padding: 7px 15px
+}
+
+.center:hover {
+    border: 1px solid black;
+}
+
+img {
+    padding: 5px;
+}
+
+.center {
+    text-align: center;
+}
